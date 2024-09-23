@@ -10,8 +10,8 @@ const Center = () => {
           <p className='font-medium ml-2'><span className='text-lg text-[#38b75c]'><i class="ri-check-line"></i></span> 900+ High-Quality Products</p>
           <p className='font-medium ml-2'><span className='text-lg text-[#38b75c]'><i class="ri-check-line"></i></span> Largest global print network</p>
           <div className='mt-10 flex gap-4'>
-            <button className='px-8 py-4 bg-[#38b75c] rounded-sm text-white font-medium'>Start for free</button>
-            <button className='px-8 py-4 border-[1px] border-black rounded-sm font-medium'><span><i class="ri-play-circle-line"></i></span> How it worls?</button>
+            <button className='px-8 py-4 bg-[#38b75c] rounded-sm text-white font-medium hover:bg-green-600'>Start for free</button>
+            <button className='px-8 py-4 border-[1px] border-black rounded-sm font-medium hover:text-[#38b75c]'><span><i class="ri-play-circle-line"></i></span> How it works?</button>
           </div>
           <h4 className='mt-6 text-[#38b75c] font-semibold'>Trusted by over 8M sellers around the world</h4>
         </div>
